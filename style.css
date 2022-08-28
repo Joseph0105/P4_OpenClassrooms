@@ -683,9 +683,9 @@ a {
 }
 
 p {
-  font-size: 11px;
+  font-size: 14px;
 }
-
+/* font size de 12px minimum */
 .tight-width-whitespace {
   max-width: 600px;
   margin: auto auto auto auto;
@@ -722,8 +722,8 @@ blockquote {
 }
 .citation {
   font-size: 20px;
-  font-weight: 500;
-  color: #7a7a7a;
+  font-weight: 200;
+  color: #525252;
 }
 h3 {
   font-size: 15px;
@@ -796,7 +796,7 @@ h4 {
 
 .btn-atomic-tangerine {
   background: #f3976c;
-  color: #545454 !important;
+  color: #1f1f1f !important;
 }
 /* screen - Amélioration du contrast */
 .btn-atomic-tangerine:hover {
