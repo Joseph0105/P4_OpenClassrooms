@@ -54,6 +54,7 @@ a:hover {
 
 .bloc-sm {
   padding: 20px 50px;
+  margin: 0px
 }
 
 .bg-center,
@@ -340,8 +341,9 @@ a:hover {
 .navbar-toggle {
   margin: 10px 10px 0 0;
   border: 0px;
+  display: none;
 }
-
+/* screen - toggle display none */
 .navbar-toggle:hover {
   background: transparent !important;
 }
@@ -659,9 +661,9 @@ a {
   font-weight: 400;
   color: #575757 !important;
 }
-
 .container {
   max-width: 1000px;
+
 }
 
 .hero-bloc-text {
