@@ -1,4 +1,4 @@
- #Bienvenue sur le projet 4 du parcours OpenClassrooms, Optimiser un site web !
+#Bienvenue sur le projet 4 du parcours OpenClassrooms, Optimiser un site web !
  
 
 Dans ce projet, j'ai eu pour mission d'optimiser et d'améliorer le site web d'une agence de web design. Les principaux points à travailler étaient :
